@@ -59,9 +59,8 @@ It includes installation scripts, configuration files, and pre-installed softwar
 
 ---
 
-## Installation
+## Download link
 
-1. Clone this repository:
+1. Download the image from this link
    ```bash
-   git clone https://github.com/<your-username>/custom-ubuntu-22.04-ros2.git
-   cd custom-ubuntu-22.04-ros2
+   https://drive.google.com/drive/folders/19-spk9dvJXGX38wzlc9VXHJRbiKG3tme?usp=sharing
