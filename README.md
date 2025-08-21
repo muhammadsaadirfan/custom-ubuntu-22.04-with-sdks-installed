@@ -73,3 +73,22 @@ It includes installation scripts, configuration files, and pre-installed softwar
 1. Download the image from this link
    ```bash
    https://drive.google.com/drive/folders/19-spk9dvJXGX38wzlc9VXHJRbiKG3tme?usp=sharing
+
+---
+
+## Why use this image?
+
+Setting up ROS 2, LiDAR drivers, OpenCV, motor controllers, and development tools on a **fresh Ubuntu 22.04 system** usually takes **2–4 hours** of installations, dependencies, and configurations.  
+
+With this pre-configured image, the entire process is reduced to about **30 minutes**.  
+This saves time on every new computer setup and lets you start directly with robotics development instead of system preparation.
+
+
+## 👤 About the Author
+
+**Muhammad Saad**  
+🎓 Mechatronics and Control Engineering Student  
+🏫 University of Engineering and Technology, Lahore  
+📍 Lahore, Pakistan  
+📧 Email: [msaadmceu@gmail.com](mailto:msaadmceu@gmail.com)
+
