@@ -1,5 +1,12 @@
 # custom-ubuntu-22.04-with-sdks-installed
 
+
+---
+
+![alt text](ubuntu22.04.png)
+
+---
+
 This repository provides a **customized Ubuntu 22.04 setup** tailored for robotics development.  
 It includes installation scripts, configuration files, and pre-installed software for **ROS 2 Humble**, sensors, computer vision, and motor control.  
 
