@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-  <img src="ubuntu22.04.png" alt="Ubuntu 22.04" />
+  <img src="ubuntu_header.png" alt="Ubuntu 22.04" />
 </p>
 
 ---
